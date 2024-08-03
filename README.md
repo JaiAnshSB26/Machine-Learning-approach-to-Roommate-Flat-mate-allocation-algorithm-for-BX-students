@@ -1,0 +1,2 @@
+# Machine-Learning-approach-to-Roommate-Flat-mate-allocation-algorithm-for-BX-students.
+A Machine Learning (unsupervised learning) algorithm (leveraging k-means clustering and linear sum assignment optimization) developed for allocating flat mates for the incoming Bachelor of Science students at Ecole Polytechnique using the data extracted from the Roommate (Flat-mate) preferences form that was sent to and filled up by incoming BXs!
