@@ -123,7 +123,7 @@ The algorithm calculates compatibility scores between students and uses K-Means 
 The final room assignments are saved to an Excel file (`room_allocation_results_optimized.xlsx`).
 
 ## Contributing
-Any feedback/suggestions is both welcome and appreciated. Please email me at - Jaianshofficial26@gmail.com.
+Any feedback/suggestions is both welcome and appreciated. Please email me at - <Jaianshofficial26@gmail.com>
 
 ## License
 This project is licensed under the MIT License.
