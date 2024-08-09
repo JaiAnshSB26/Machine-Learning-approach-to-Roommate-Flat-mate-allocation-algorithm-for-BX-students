@@ -126,5 +126,5 @@ The final room assignments are saved to an Excel file (`room_allocation_results_
 Any feedback/suggestions is both welcome and appreciated. Please email me at - <Jaianshofficial26@gmail.com>
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License (see [LICENSE](https://github.com/JaiAnshSB26/Mentor-Mentee-Allocation-Algorithm/blob/main/LICENSE)).
 
